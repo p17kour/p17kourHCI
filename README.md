@@ -89,7 +89,14 @@
 Εκπλήρωσα τα ζητούμενα του **Παραδοτέου #1** στο προσωπικό μου αποθετήριο του κώδικά μου. Πιο συγκεκριμένα:
 
 1. στον φάκελο [scripts](https://github.com/p17kour/D3js-US-educational-attainment/tree/master/assets/scripts) άλλαξα τα χρώματα στα γραφήματα 1,2 και 3.
-Προσθέτω εικόνα gif
+
+![](Screenshot_6.png) 
+
+
+![](Screenshot_7.png) 
+
+
+![](Screenshot_8.png)
 
 2. στον φάκελο [stylesheets](https://github.com/p17kour/D3js-US-educational-attainment/tree/master/assets/stylesheets) αντικατέστησα τις διεπαφές στα «κουμπιά» του 2ου και 3ου γραφήματος με άλλες τις επιλογής μου.
 Προσθέτω εικόνα gif
